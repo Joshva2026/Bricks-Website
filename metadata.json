@@ -1,0 +1,6 @@
+{
+  "name": "Sri Venkateswara Bricks",
+  "description": "Premium quality, durable, and eco-friendly bricks for all construction needs by Sri Venkateswara Bricks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
