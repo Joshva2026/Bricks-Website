@@ -203,7 +203,7 @@ export const QuoteModal: React.FC<QuoteModalProps> = ({
                 <input
                   type="text"
                   required
-                  placeholder="e.g. Ramesh Kumar"
+                  placeholder="e.g. Joshva"
                   value={name}
                   onChange={(e) => setName(e.target.value)}
                   className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-[#c84924]"
@@ -215,7 +215,7 @@ export const QuoteModal: React.FC<QuoteModalProps> = ({
                 <input
                   type="tel"
                   required
-                  placeholder="e.g. 98765 42210"
+                  placeholder="e.g. 95975 86099"
                   value={phone}
                   onChange={(e) => setPhone(e.target.value)}
                   className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-[#c84924]"

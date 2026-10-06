@@ -65,19 +65,21 @@ export const Footer: React.FC<FooterProps> = ({ onOpenPrivacy, onOpenTerms }) =>
             <ul className="space-y-3 text-xs sm:text-sm text-gray-300">
               <li className="flex items-center gap-2.5">
                 <Phone className="w-4 h-4 text-gray-400 flex-shrink-0" />
-                <a href="tel:+919876542210" className="hover:text-white transition-colors">
-                  +91 98765 42210
+                <a href="tel:9597586099" className="hover:text-white transition-colors">
+                  +91 95975 86099
                 </a>
               </li>
               <li className="flex items-center gap-2.5">
                 <Mail className="w-4 h-4 text-gray-400 flex-shrink-0" />
-                <a href="mailto:info@svbricks.com" className="hover:text-white transition-colors">
-                  info@svbricks.com
+                <a href="mailto:joshva756@gmail.com" className="hover:text-white transition-colors">
+                  joshva756@gmail.com
                 </a>
               </li>
               <li className="flex items-start gap-2.5">
                 <MapPin className="w-4 h-4 text-gray-400 flex-shrink-0 mt-0.5" />
-                <span>Madurai, Tamil Nadu - 625001</span>
+                <a href="https://maps.app.goo.gl/ZJnxs7z48sT8pYRQ8" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors text-left">
+                  Annamalayar Mills Colony, Alamarathu Patti p.o, Dindigul. 624303
+                </a>
               </li>
             </ul>
           </div>
